@@ -1,4 +1,4 @@
-# Latihan-Git1-Progress
+# Latihan-Git1-Progress MAIN 
 Repo ini berisikan data yang saya gunakan untuk latihan progress pada git
 
 
